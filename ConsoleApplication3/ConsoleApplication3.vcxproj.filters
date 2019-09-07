@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleApplication3.cpp">
+    <ClCompile Include="SimulatorLinux.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
